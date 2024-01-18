@@ -1,4 +1,4 @@
-module github.com/askcyn/go-nats
+module github.com/akscyn/go-nats
 
 go 1.12
 
