@@ -1,0 +1,6 @@
+git.miko.ru/scm/ad/go-nats.git v0.0.0-20200206105331-bc15a1ca7eb5 h1:65w41YGAPrblcbOrW0XgUmyeE8z/I9uoKEIKxHkqCGM=
+git.miko.ru/scm/ad/go-nats.git v0.0.0-20200206105331-bc15a1ca7eb5/go.mod h1:QSPmiU1yiGlPOoUJuywtezgheFAgbdsPEEnJ74bx5Vg=
+github.com/golang/protobuf v1.3.4 h1:87PNWwrRvUSnqS4dlcBU/ftvOIBep4sYuBLlh6rX2wk=
+github.com/golang/protobuf v1.3.4/go.mod h1:vzj43D7+SQXF/4pzW/hwtAqwc6iTitCiVSaWz5lYuqw=
+github.com/nats-io/nuid v1.0.1 h1:5iA8DT8V7q8WK2EScv2padNa/rTESc1KdnPw4TC2paw=
+github.com/nats-io/nuid v1.0.1/go.mod h1:19wcPz3Ph3q0Jbyiqsd0kePYG7A95tJPxeL+1OSON2c=
